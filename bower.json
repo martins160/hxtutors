@@ -1,0 +1,21 @@
+{
+  "name": "hxtutors",
+  "homepage": "https://github.com/martins160/hxtutors",
+  "authors": [
+    "Marcelo Martins <martiins160@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
